@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BeaconAttend</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="title_activity_setting2">Setting2Activity</string>
+    <string name="title_activity_database">DatabaseActivity</string>
+    <string name="title_activity_help">HelpActivity</string>
+    <string name="title_activity_beacon_registry">BeaconRegistryActivity</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
