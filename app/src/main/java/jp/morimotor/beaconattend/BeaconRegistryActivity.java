@@ -67,7 +67,7 @@ public class BeaconRegistryActivity extends AppCompatActivity implements View.On
         // 完了ボタンが押された時
         // リストにname,major,minorの形で登録
 
-        List<String> list = new ArrayList<>();
+        List<String> list = new ArrayList<String>();
 
         // データ読み込み
         try{
